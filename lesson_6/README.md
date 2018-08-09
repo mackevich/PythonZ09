@@ -1,7 +1,7 @@
 # Useful links
 
-В двух словах о строках на русском, если кто-то пропустил: https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
-Документация по строкам: https://docs.python.org/3/library/string.html?highlight=string#module-string
+* В двух словах о строках на русском, если кто-то пропустил: https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
+* Документация по строкам: https://docs.python.org/3/library/string.html?highlight=string#module-string
 
 
 # Taks from lesson:
