@@ -4,7 +4,7 @@
 * Документация по строкам: https://docs.python.org/3/library/string.html?highlight=string#module-string
 
 
-# Taks from lesson:
+# Tasks from lesson:
 
 Задача #1: Написать функцию, которая принимает строку в качестве аргумента и
 возвращает строку, в которой все строчные буквы заменены на заглавные и наоборот.

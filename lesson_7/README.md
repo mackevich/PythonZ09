@@ -8,7 +8,7 @@
 * Pillow: https://pillow.readthedocs.io/en/latest/index.html
 
 
-# Taks from lesson:
+# Tasks from lesson:
 
 > Задача #1: Выгрузить данные из currency.json и вывести их в консоль в виде таблицы.
 > Пример: То, что должно получиться.
